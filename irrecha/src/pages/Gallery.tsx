@@ -40,22 +40,22 @@ export default function Gallery() {
       description: "Blessing ceremony at the holy lake"
     },
     {
-      url: "https://images.pexels.com/photos/1190299/pexels-photo-1190299.jpeg?auto=compress&cs=tinysrgb&w=800",
+      url: "https://www.aljazeera.com/wp-content/uploads/2020/10/000_8RB7Z8.jpg?fit=1170%2C781&quality=80",
       title: "Cultural Dance",
       description: "Traditional Oromo dance performance"
     },
     {
-      url: "https://images.pexels.com/photos/1190300/pexels-photo-1190300.jpeg?auto=compress&cs=tinysrgb&w=800",
+      url: "https://www.journals.uchicago.edu/cms/10.1086/699259/asset/images/medium/fg6_online.gif",
       title: "Ateetee Ceremony",
       description: "Women performing the sacred Ateetee ritual"
     },
     {
-      url: "https://images.pexels.com/photos/1190301/pexels-photo-1190301.jpeg?auto=compress&cs=tinysrgb&w=800",
+      url: "https://i0.wp.com/www.ethiostarlocalization.com/wp-content/uploads/2023/10/ETLC-Blog-Images-irrecha.png?fit=1980%2C1080&ssl=1",
       title: "Community Unity",
       description: "Families coming together in celebration"
     },
     {
-      url: "https://images.pexels.com/photos/1190302/pexels-photo-1190302.jpeg?auto=compress&cs=tinysrgb&w=800",
+      url: "https://advocacy4oromia.org/wp-content/uploads/2022/07/oromo-1.jpg?w=1024",
       title: "Traditional Attire",
       description: "Beautiful traditional Oromo clothing"
     }
