@@ -19,7 +19,7 @@ export default function Updates() {
       })
       .catch((e) => console.error("Failed to load updates:", e));
 
-    // Add scroll animation
+    // Add scroll animations
     const observerOptions = {
       threshold: 0.1,
       rootMargin: '0px 0px -50px 0px'
